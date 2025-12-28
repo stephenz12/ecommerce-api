@@ -144,4 +144,3 @@ This project focuses on backend functionality only
 Authentication is intentionally omitted for simplicity
  Author
 
-Built by Stephen Piperno
